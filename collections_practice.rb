@@ -27,3 +27,7 @@ def merge_data(keys, values)
   hash = {}
   keys.each {|key| hash << key}
 end
+
+
+def find_cool
+end
