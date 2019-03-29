@@ -43,5 +43,6 @@ end
 
 def organize_schools(schools)
   school_hash = {}
-  schools.each
+  schools.each { |school, loc|
+    
 end
