@@ -20,7 +20,6 @@ def count_elements(array)
    
       array.each {|person| if person == name then count += 1 
       end}
-      # binding.pry
       name[:count] = count}
 end
 
