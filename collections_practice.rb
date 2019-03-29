@@ -31,7 +31,6 @@ end
 
 def find_cool(cool)
   array = []
-  binding.pry
   cool.each {|cool|
   temp = cool[:temperature]
     if temp = "cool"
