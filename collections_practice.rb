@@ -24,14 +24,6 @@ def count_elements(array)
 end
 
 def merge_data(keys, values)
-  # keys.each do |info|
-  #   keyvalues = info[:first_name]
-  #   valueinfo = info[0][keyvalues]
-    
-  #   valueinfo.each do |property,value|
-  #     object[property] = value
-  #   end
-  # end
-  
-  
+  hash = {}
+  keys.each {|key| hash << key
 end
