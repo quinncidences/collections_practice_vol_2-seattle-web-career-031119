@@ -37,4 +37,5 @@ def find_cool(cool)
       array << cool[:temp]
     end
   end
+  array
 end
