@@ -25,5 +25,5 @@ end
 
 def merge_data(keys, values)
   hash = {}
-  keys.each {|key| hash << key
+  keys.each {|key| hash << key}
 end
